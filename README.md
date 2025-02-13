@@ -50,12 +50,12 @@
 
 ---
 
-### 🎓 Certifications:
+## 🎓 Certifications:
 - [📜 **ISC² Certified in Cybersecurity (CC)**](https://www.credly.com/badges/66bec3bb-cc36-42e8-8ca2-32f997a73c74/public_url)
 - [⚔️ **HTB Certified PenetrationTesting Specialist (in progress)**](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 ---
 
-### 📫 Connect with me:
+## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cybersecurityhenriquedias)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhpds@iscte-iul.pt)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1120595)
