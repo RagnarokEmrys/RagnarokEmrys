@@ -1,6 +1,6 @@
 # Hi there! I'm Henrique Dias 👋🏻
 
-🔒 **Cybersecurity Student, Penetration Tester, Cyber Defense**  
+🔒 **Cybersecurity Student, Penetration Tester🔴 and Security Analyst🔵**  
 📍 Based in **Lisbon, Portugal 🇵🇹**  
 [🎓 Studying **Cybersecurity at ISCTE - Instituto Universitário de Lisboa**](https://www.iscte-iul.pt/curso/codigo/0430/licenciatura-tecnologias-digitais-seguranca-de-informacao) 
 
@@ -51,8 +51,8 @@
 ---
 
 ## 🎓 Certifications:
+- [🗡️ **HTB Certified PenetrationTesting Specialist(CPTS)**](https://www.credly.com/badges/c34a5723-d311-4e6e-af26-5b1653c83545/public_url)
 - [📜 **ISC² Certified in Cybersecurity (CC)**](https://www.credly.com/badges/66bec3bb-cc36-42e8-8ca2-32f997a73c74/public_url)
-- [⚔️ **HTB Certified PenetrationTesting Specialist (in progress)**](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 ---
 
 ## 📫 Connect with me:
