@@ -51,7 +51,7 @@
 ---
 
 ## 🎓 Certifications:
-- [🗡️ **HTB Certified PenetrationTesting Specialist(CPTS)**](https://www.credly.com/badges/c34a5723-d311-4e6e-af26-5b1653c83545/public_url)
+- [🗡️ **HTB Certified PenetrationTesting Specialist (CPTS)**](https://www.credly.com/badges/c34a5723-d311-4e6e-af26-5b1653c83545/public_url)
 - [📜 **ISC² Certified in Cybersecurity (CC)**](https://www.credly.com/badges/66bec3bb-cc36-42e8-8ca2-32f997a73c74/public_url)
 ---
 
