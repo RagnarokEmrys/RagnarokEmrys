@@ -1,6 +1,6 @@
 # Hi there! I'm Henrique Dias 👋🏻
 
-🔒 **Cybersecurity Student, Penetration Tester🔴 and Security Analyst🔵**  
+🔒 **Cybersecurity Student, Junior Penetration Tester🔴 **  
 📍 Based in **Lisbon, Portugal 🇵🇹**  
 [🎓 Studying **Cybersecurity at ISCTE - Instituto Universitário de Lisboa**](https://www.iscte-iul.pt/curso/codigo/0430/licenciatura-tecnologias-digitais-seguranca-de-informacao) 
 
